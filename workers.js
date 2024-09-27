@@ -1,7 +1,7 @@
 let geolite2_country = null;
 let CLOUDFLARE_API_TOKEN = null;
 // const dohUrl = 'https://dns.google/dns-query';
-const dohUrl = 'https://dns.nextdns.io/78826c';
+const dohUrl = 'https://ndhaue.zhangwf.eu.org/1:ABEAATAQ';
 // const dohUrl = 'https://unfiltered.adguard-dns.com/dns-query';
 
 export default {
